@@ -5,22 +5,19 @@
     alt="Awais Abbas - Android Developer"
   />
 </div>
-# 👨‍💻 Awais Abbas | Android Developer
 
-<!-- ==================== HEADER ==================== -->
+## Building Android Experiences with Kotlin 🚀
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0F172A,50:164E63,100:0F766E&text=Awais%20Abbas&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Mobile%20Engineering&descAlignY=65&descSize=16" width="100%" alt="Awais Abbas Android Developer Banner"/>
-
-  <br/>
 
   <a href="https://portfolio-awais-abbas.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+
   <a href="https://www.linkedin.com/in/awaisabbas7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://github.com/malikawaisabbas7">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -29,13 +26,26 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm **Awais Abbas**, an Android Developer focused on building practical, user-friendly, and maintainable Android applications using Kotlin.
+I'm **Awais Abbas**, an Android Developer specializing in building functional, user-focused, and maintainable mobile applications using **Kotlin and modern Android development technologies**.
 
-Currently working as an **Android Developer Intern at MindByte Studios**, where I am strengthening my understanding of professional Android development workflows, application architecture, and real-world software engineering practices.
+My development approach focuses on writing clean, structured code, implementing scalable application architectures, and transforming requirements into reliable mobile experiences. I enjoy working across different layers of Android development, from designing responsive user interfaces to implementing business logic, managing local data, and integrating RESTful APIs.
 
-I enjoy turning ideas into functional mobile applications, understanding how applications work internally, and continuously improving the quality of my code.
+### 💡 Technical Expertise
+
+- **Android Development:** Kotlin, Java, Android SDK, XML, Activities, Fragments, RecyclerView.
+- **Architecture & Design:** MVVM, MVC, MVP, Repository Pattern, Object-Oriented Programming.
+- **Networking & Asynchronous Programming:** Retrofit, REST APIs, Kotlin Coroutines.
+- **Local Data Management:** Room Database, SQLite.
+- **Backend & Cloud Services:** Firebase Authentication, Firebase Cloud Messaging.
+- **Development Tools:** Android Studio, Git, GitHub, Postman.
+
+### 🎯 Professional Focus
+
+Building well-structured Android applications, improving application performance and maintainability, exploring modern development practices, and continuously growing as an Android Software Engineer.
+
+**My goal:** To build meaningful mobile applications through clean code, thoughtful architecture, and continuous learning.
 
 ```kotlin
 val developer = mapOf(
@@ -43,7 +53,7 @@ val developer = mapOf(
     "role" to "Android Developer",
     "primaryLanguage" to "Kotlin",
     "platform" to "Android",
-    "currentlyWorkingAt" to "MindByte Studios",
+    "professionalFocus" to "Android Application Development",
     "focus" to "Building maintainable Android applications",
     "learning" to "Clean Architecture, Hilt & advanced Android development"
 )
