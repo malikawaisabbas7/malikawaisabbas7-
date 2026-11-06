@@ -1,3 +1,10 @@
+<div align="center">
+  <img
+    src="assets/android-developer-banner.png"
+    width="100%"
+    alt="Awais Abbas - Android Developer"
+  />
+</div>
 # 👨‍💻 Awais Abbas | Android Developer
 
 <!-- ==================== HEADER ==================== -->
